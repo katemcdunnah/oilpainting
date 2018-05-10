@@ -1,0 +1,39 @@
+ body {
+     background-image:url("http://cityofhope.co/wp-content/uploads/2017/11/white-brick-wall-background-seamless-vector-white-brick-wall-background-pattern-for-continuous-replicate-stock-vector-black-and-white-brick-wall-background.jpg")
+     text-align:center;
+     font:Serif;
+     font-size:70px;
+    }
+
+h1 {text-align:center;
+    font-size:70px;
+    font:Serif;
+    }
+
+p {
+    font-size:35px;
+    font:serif;
+    }   
+
+h2 {text-align:center;
+    font-size:50px;
+    font:Serif;
+    }
+
+h3 {text-align:center;
+    font-size:50px;
+    font:Serif;
+    }
+
+h4 {text-align:center;
+    font-size:50px;
+    font:Serif;
+    }
+
+h5 {text-align:center;
+    font-size:50px;
+    font:Serif;
+    }
+ul {font-size:50px;
+    font:Serif;
+    text-align:center;}
